@@ -72,6 +72,15 @@
         <activity
             android:name=".StoryMain"
             android:exported="true"/>
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WordMeaningActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Dictionary"
+            android:exported="true"/>
         <activity android:name=".Calculation1" />
         <activity android:name=".Calculation2" />
         <activity android:name=".Numbers2" />
