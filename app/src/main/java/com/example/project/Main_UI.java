@@ -47,4 +47,9 @@ public class Main_UI extends AppCompatActivity {
 
         startActivity(intent1);
     }
+    public void openDictionary(View view){
+        Intent intent1 = new Intent(Main_UI.this, Dictionary.class);
+
+        startActivity(intent1);
+    }
 }
