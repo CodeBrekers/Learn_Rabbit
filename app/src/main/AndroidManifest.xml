@@ -9,11 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Project">
-
+        <activity
+            android:name=".ContactUpdate"
+            android:exported="true" />
         <activity
             android:name=".addFactors"
             android:exported="true" />
-
         <activity
             android:name=".ToMemorize"
             android:exported="true" />
@@ -25,14 +26,13 @@
             android:exported="true" />
         <activity
             android:name=".ImageUI"
-            android:exported="true"/>
-
-        <activity android:name=".Calculation1"></activity>
+            android:exported="true" />
+        <activity android:name=".Calculation1" />
         <activity android:name=".Calculation2" />
         <activity android:name=".Numbers2" />
         <activity android:name=".Numbers1" />
         <activity android:name=".MathsMain" />
-        <activity android:name=".Main_UI" >
+        <activity android:name=".Main_UI">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -40,8 +40,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".DisplayData" />
-        <activity android:name=".MainActivity"/>
-
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
