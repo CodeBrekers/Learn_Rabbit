@@ -9,11 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Project">
-
+        <activity
+            android:name=".Update_Add_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".ContactUpdate"
+            android:exported="true" />
         <activity
             android:name=".addFactors"
             android:exported="true" />
-
         <activity
             android:name=".ToMemorize"
             android:exported="true" />
@@ -25,14 +29,55 @@
             android:exported="true" />
         <activity
             android:name=".ImageUI"
+            android:exported="true" />
+        <activity
+            android:name=".UpdateActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StoryTwelve"
+            android:exported="true" />
+        <activity
+            android:name=".StoryEleven"
+            android:exported="true" />
+        <activity
+            android:name=".StoryTen"
+            android:exported="true" />
+        <activity
+            android:name=".StoryNine"
+            android:exported="true" />
+        <activity
+            android:name=".StoryEight"
+            android:exported="true" />
+        <activity
+            android:name=".StorySeven"
+            android:exported="true" />
+        <activity
+            android:name=".StorySix"
+            android:exported="true" />
+        <activity
+            android:name=".StoryFive"
+            android:exported="true" />
+        <activity
+            android:name=".StoryFour"
+            android:exported="true" />
+        <activity
+            android:name=".StoryThree"
+            android:exported="true" />
+        <activity
+            android:name=".StoryTwo"
+            android:exported="true" />
+        <activity
+            android:name=".StoryOne"
+            android:exported="true" />
+        <activity
+            android:name=".StoryMain"
             android:exported="true"/>
-
-        <activity android:name=".Calculation1"></activity>
+        <activity android:name=".Calculation1" />
         <activity android:name=".Calculation2" />
         <activity android:name=".Numbers2" />
         <activity android:name=".Numbers1" />
         <activity android:name=".MathsMain" />
-        <activity android:name=".Main_UI" >
+        <activity android:name=".Main_UI">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -40,8 +85,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".DisplayData" />
-        <activity android:name=".MainActivity"/>
-
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
