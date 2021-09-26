@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s201"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s202"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s203"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s204"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s205"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s206"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s207"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s208"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s209"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s210"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s211"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s212"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s213"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s214"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s215"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s216"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s217"/>
+
+    <item
+        android:duration="4000"
+        android:drawable="@drawable/s218"/>
+
+</animation-list>

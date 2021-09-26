@@ -37,4 +37,14 @@ public class Main_UI extends AppCompatActivity {
 
         startActivity(intent1);
     }
+    public void openContact(View view){
+        Intent intent1 = new Intent(Main_UI.this, ContactUpdate.class);
+
+        startActivity(intent1);
+    }
+    public void openStory(View view){
+        Intent intent1 = new Intent(Main_UI.this, StoryMain.class);
+
+        startActivity(intent1);
+    }
 }

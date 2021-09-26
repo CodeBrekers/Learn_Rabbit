@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project">
         <activity
+            android:name=".Update_Add_Activity"
+            android:exported="true" />
+        <activity
             android:name=".ContactUpdate"
             android:exported="true" />
         <activity
@@ -27,6 +30,48 @@
         <activity
             android:name=".ImageUI"
             android:exported="true" />
+        <activity
+            android:name=".UpdateActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StoryTwelve"
+            android:exported="true" />
+        <activity
+            android:name=".StoryEleven"
+            android:exported="true" />
+        <activity
+            android:name=".StoryTen"
+            android:exported="true" />
+        <activity
+            android:name=".StoryNine"
+            android:exported="true" />
+        <activity
+            android:name=".StoryEight"
+            android:exported="true" />
+        <activity
+            android:name=".StorySeven"
+            android:exported="true" />
+        <activity
+            android:name=".StorySix"
+            android:exported="true" />
+        <activity
+            android:name=".StoryFive"
+            android:exported="true" />
+        <activity
+            android:name=".StoryFour"
+            android:exported="true" />
+        <activity
+            android:name=".StoryThree"
+            android:exported="true" />
+        <activity
+            android:name=".StoryTwo"
+            android:exported="true" />
+        <activity
+            android:name=".StoryOne"
+            android:exported="true" />
+        <activity
+            android:name=".StoryMain"
+            android:exported="true"/>
         <activity android:name=".Calculation1" />
         <activity android:name=".Calculation2" />
         <activity android:name=".Numbers2" />
